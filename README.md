@@ -1,24 +1,12 @@
-### Hi there 👋
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souta-pqr&hide=makefile,cmake,G-code&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=souta-pqr&theme=onedark&show_icons=ture" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=souta-pqr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souta-pqr&layout=compact&langs_count=7&theme=algolia"/>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=souta-pqr&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souta-pqr&theme=algolia" alt="souta-pqr" />
+</p>
 
-- 🔭 I'm currently working on speech recognition research at Fujie Laboratory, CIT
-- 🌱 I'm currently learning machine learning and deep learning for speech processing
-- 👨‍🎓 Graduate student at Chiba Institute of Technology (Advanced Engineering, Future Robotics)
-- 📊 Research focus: Japanese speech recognition with auxiliary information
-- 🏆 Competition results: 3rd & 4th place in Dialogue Live Competition 7
-- 📝 Conference presentations: 2x at Acoustical Society of Japan
-- 💼 Internship experience: 2 companies
-- 💬 Ask me about speech recognition, Python, React, or embedded systems
-- 📫 How to reach me: boriko0116@gmail.com
-- ⚡ Fun fact: I love building both AI models and web applications!
-
-<!--
-**souta-pqr/souta-pqr** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=souta-pqr&theme=algolia&row=2&column=3" />
+</p>
